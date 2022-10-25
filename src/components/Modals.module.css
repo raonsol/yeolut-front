@@ -65,7 +65,7 @@ ul {
 }
 .btn-font {
   font-weight: 500;
-  font-size: 1rem;
+  font-size: .8rem;
   line-height: 1rem;
   text-align: center;
 }
@@ -80,4 +80,11 @@ ul {
   .items{
     transform: translateX(-75%);
   }
+  .btn-font {
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1rem;
+    text-align: center;
+  }
+  
 }

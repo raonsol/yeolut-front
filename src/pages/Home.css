@@ -57,7 +57,7 @@
 .container-filters {
   display: flex;
   height: 2rem;
-  gap: 1.5rem;
+  gap: 1rem;
   margin: 0rem;
 }
 .btn-primary {
@@ -81,7 +81,7 @@
 }
 .btn-font {
   font-weight: 500;
-  font-size: 0.7rem;
+  font-size: .8rem;
   line-height: 1rem;
   text-align: center;
 }
@@ -121,7 +121,6 @@
     display: inline-block;
   }
   .btn-font {
-    font-weight: 500;
     font-size: 1rem;
   }
   .container-filters {
